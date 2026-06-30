@@ -1,0 +1,6 @@
+{
+  "name": "方块蛋仔大冒险",
+  "description": "融合《我的世界》像素方块美术与《蛋仔派对》弹性物理闯关的轻量级动作游戏，包含多张主线与无重复独立隐藏密道关卡。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
